@@ -1,8 +1,6 @@
 ## Hey, I'm Igor 👋
 
 <!--
-
-
 I'm currently studying Front-End Development.
 
 🌱 HTML
