@@ -8,5 +8,5 @@ I'm currently studying Front-End Development.
 
 🌱 JavaScript
 
-My goal is to become a sucessful Software Engineer.
+My goal is to become a successful Software Engineer.
 
