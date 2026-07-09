@@ -1,6 +1,5 @@
 ## Hey, I'm Igor 👋
 
-<!--
 I'm currently studying Front-End Development.
 
 🌱 HTML
@@ -10,4 +9,4 @@ I'm currently studying Front-End Development.
 🌱 JavaScript
 
 My goal is to become a sucessful Software Engineer.
--->
+
